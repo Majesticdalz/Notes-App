@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectAndroid</string>
+    <string name="Sign_in">Sign in</string>
+    <string name="Success">Success</string>
+    <string name="signing_in">Signing In..</string>
+    <string name="creating">Creating Account..</string>
+    <string name="txtTrans">textTransition</string>
+    <string name="tran">acidify</string>
+
+</resources>
